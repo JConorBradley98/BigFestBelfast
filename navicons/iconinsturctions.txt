@@ -1,0 +1,1 @@
+In order to use the nav bar icons place them in the img folder on your web server

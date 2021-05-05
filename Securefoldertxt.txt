@@ -1,0 +1,9 @@
+ The files that should go into the secure folder are:
+
+ 1.restrictaccount.php
+ 2.unrestrictaccount.php
+ 3.user.php
+ 4.userspage.php
+ 5.deleteaccount.php
+ 6.adminreset.php
+ 7.approveaccount.php

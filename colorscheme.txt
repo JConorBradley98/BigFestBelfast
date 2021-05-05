@@ -1,0 +1,13 @@
+Here is a potenial color scheme generated using coolors.co
+
+Color           Color Code
+
+Light Gray      #D3D4D9
+
+Rackley         #4B88A2
+
+Lava            #BB0A21
+
+Raisin Black    #252627
+
+Snow            #FFF9FB

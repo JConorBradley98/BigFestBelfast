@@ -1,0 +1,268 @@
+ .form-check-label {
+     padding-right: 40px;
+ }
+ 
+ #cbody {
+     margin-left: 0px;
+     margin-right: 0px;
+     padding-bottom: 70px;
+     overflow-x: hidden;
+ }
+ 
+ header {
+     background-color: #4B88A2;
+     text-align: center;
+     width: 100%;
+     overflow: hidden;
+ }
+ 
+ nav {
+     text-align: center;
+     background-color: #FFF9FB;
+     border-style: inset;
+     border-bottom: inset;
+     border-color: #252627;
+     width: 100%;
+ }
+ 
+ li {
+     list-style: none;
+     display: inline-block;
+ }
+ 
+ ul {
+     text-align: center;
+     list-style: none;
+     display: inline-block;
+     width: 100%;
+ }
+ 
+ #con {
+     padding-top: 20px;
+     background-color: #BB0A21;
+     border-bottom: inset;
+     border-color: #252627;
+     width: 100%;
+ }
+ 
+ #lcon {
+     padding-top: 20px;
+     background-color: #BB0A21;
+     border-bottom: inset;
+     border-color: #252627;
+     width: 100%;
+     height: 800px;
+ }
+ 
+ #group {
+     background-color: #FFF9FB;
+     padding-bottom: 50px;
+     padding-top: 50px;
+ }
+ 
+ .form-control {
+     padding-bottom: 40px;
+     padding-top: 40px;
+     background-color: #FFF9FB;
+ }
+ 
+ footer {
+     background-color: #BB0A21;
+     text-align: center;
+     bottom: 0%;
+     width: 100%;
+ }
+ 
+ .container-fluid {
+     padding: 0px;
+ }
+ 
+ #navbar {
+     width: 100%;
+ }
+ 
+ #loggroup {
+     text-align: center;
+ }
+ 
+ .logdiv {
+     text-align: center;
+     padding-bottom: 20px;
+     padding-top: 20px;
+     width: 300px;
+ }
+ 
+ #logcon {
+     text-align: center;
+ }
+ 
+ #logrow {
+     height: 100%;
+ }
+ 
+ .formh {
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ .card-body {
+     text-align: center;
+ }
+ 
+ #uc {
+     text-align: center;
+     padding-top: 5px;
+     padding-bottom: 5px;
+ }
+ 
+ #cardcol {
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+ }
+ 
+ #right {
+     text-align: left;
+ }
+ 
+ #profileright {
+     text-align: center;
+ }
+ 
+ #profilebody {
+     text-align: center;
+     margin-left: 0px;
+     margin-right: 0px;
+     background-color: #4B88A2;
+ }
+ 
+ .homecol {
+     border-right: inset;
+     border-left: inset;
+     border-color: #4B88A2;
+ }
+ 
+ #uc {
+     border-style: ridge;
+     border-color: #BB0A21;
+     border-width: 2.5px;
+ }
+ 
+ #logfooter {
+     background-color: #4B88A2;
+ }
+ 
+ .listbuttons {
+     padding-left: 40px;
+     padding-right: 40px;
+ }
+ 
+ .profileoptiontext {
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ .footertext {
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ .profilepagerow {
+     border-bottom: ridge;
+     border-color: #252627;
+     border-width: 5px;
+ }
+ 
+ .generaltext {
+     font-family: 'Inter', sans-serif;
+ }
+ 
+ #upcomingshow {
+     text-align: center;
+ }
+ 
+ .highleveldetails {
+     border-right: inset;
+     border-right-color: #BB0A21;
+ }
+ 
+ .indexcolheader {
+     padding-top: 10px;
+     font-family: 'Bebas Neue', cursive;
+ }
+ 
+ .cardheader {
+     padding-top: 25px;
+     font-family: 'Bebas Neue', cursive;
+     padding-bottom: 10px;
+ }
+ 
+ .userdetail {
+     /*  https://www.w3schools.com/tags/tag_u.asp*/
+     text-decoration: underline;
+ }
+ 
+ .searchdiv {
+     padding-top: 10px;
+ }
+ 
+ .lockedbody{
+     overflow-y: hidden;
+ }
+
+ .textdiv{
+     background-color: #FFF9FB;
+     opacity: 0.9;
+ }
+
+ .profileshowbackground{
+    background-color: #FFF9FB;
+ }
+
+ .venueshowrow{
+     padding-bottom: 10px;
+ }
+
+ .venueshowcolumn{
+     padding-bottom:10px ;
+ }
+
+ .datetext{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+ }
+
+
+ .createform{
+    background-color: #FFF9FB;
+    
+ }
+
+ 
+ .createlabel{
+    background-color: #FFF9FB;
+    opacity: 0.8;
+}
+
+ .navicon{
+     width: 25px;
+     height: 25px;
+ }
+
+ /*{
+
+        outline: 1px;
+        outline-style: solid;
+        outline-color: green;
+
+ } */
+
+ html{
+     overflow-x: hidden;
+ }
+
+ .navbar-nav{
+     justify-content: center;
+ }
+
+ .nav-item{
+     padding-right: 15px;
+     padding-left: 15px;
+ }
